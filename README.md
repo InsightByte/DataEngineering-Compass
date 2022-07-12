@@ -7,5 +7,5 @@ This roadmap/compass should help you gardually grow into a well rounded Data Eng
 We cover very basic concepts and we then put them into practice by implementing real life Data Engineering use cases.
 
 
-![Data Engineering Compass](https://github.com/DataEngineering-Compass/assets/images/de-compass.png)
+![Data Engineering Compass](https://github.com/InsightByte/DataEngineering-Compass/blob/main/assets/images/de-compass.png)
 
