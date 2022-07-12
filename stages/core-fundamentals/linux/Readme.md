@@ -9,7 +9,7 @@
 
 ###### _Find here full Video Tutorial covering this topic_ [Bash for Data Enginners]() 
 
-
+![](https://i.imgur.com/waxVImv.png) 
 #### Setup Docker Bash Container
  If you are running on Windows and you don'y have access to a Linux terminal, you should install Docker and setup your Bash container. 
 We will use the same container setup in our Video tutorial.
@@ -19,10 +19,14 @@ We will use the same container setup in our Video tutorial.
 docker run -it --rm bash:4.4
 ```
 _this will open and interactive shell and here is where we will run our Bash learning._
+![](https://i.imgur.com/waxVImv.png) 
+#### What is Bash ?
+Bash is an acronym for `Bourne Again Shell`, developed in 1989. Is the default login shell for most Linux distributions.
+Data Engineers will improve their productivity by knowing bash scripting and understanding Linux. 
 
-
-
+![](https://i.imgur.com/waxVImv.png) 
 #### Basic Bash Operations & Commands
+
 #### Bash Directory Operations & Commands
 #### Bash File Operations & Commands
 #### Bash Text Operations & Commands
